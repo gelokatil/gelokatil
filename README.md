@@ -6,7 +6,7 @@ My name is Gelo, I'm from Spain and I'm an sysadmin/cloudadmin.
 
 ## Skills 🌱
 
-* Linux and Windows sysadmin in Production since 2007
+* Linux and Windows sysadmin in Production since 2005
 * AWS, Azure, Docker, all the cloud stuff :) 
 * Critical thinking, decision-making and problem solving skills
 * Some Python coding
