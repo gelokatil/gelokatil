@@ -16,9 +16,7 @@ My name is Gelo, I'm from Spain and I'm an sysadmin/cloudadmin.
 
 * Interested in collaborating on open source projects
 
-## Contact 📫
-
-...
+<!-- ## Contact 📫 -->
 
 ## Hobbies 👀
 
