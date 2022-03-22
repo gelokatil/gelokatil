@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Gelo, I'm from Spain and I'm an sysadmin/cloudadmin.
+I'm from Spain and I'm an sysadmin/cloudadmin.
 
 * Currently working for [@ceu](https://www.ceu.es) as a Staff sysadmin
 
